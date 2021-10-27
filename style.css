@@ -1,0 +1,9 @@
+body {
+  background-color: green;
+}
+.horse {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  background-color: blue;
+}
